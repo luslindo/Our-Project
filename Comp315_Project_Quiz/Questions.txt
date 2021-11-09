@@ -1,0 +1,5 @@
+1|who is the be43st?|Olo|lus|stay|for
+1|who is the beseet|Olo|lus|stay|for
+1|who is the best?|Olo|lus|stay|for
+1|who is the best|Olo|lus|stay|for
+1|java is the best language|false|true
