@@ -1,0 +1,64 @@
+1|Correct way of declaring a primitive non floating point variable x in Java?|int x;|Integer x;|double x|x int;
+2|Which of these is/are not an access modifier?|none|public|private|protected
+3|The process where one class acquires the properties of another is:|Inheritance|encapsulation|acquiring|rooting
+1|Java is platform independent|True|False
+2|JVM stands for?|Java Virtual Machine|Java Vocal Mechanism|Java Video Mode|Java Visual Monitor
+1|Which on of these is not a relational operator?|=|==|!=|>
+3|Declaring class variables private and using getters and setters to modify them is?|Encapsulation|overloading|Hidding|overriding
+3|How do we get the number of elements in the array 'arr' in Java?|arr.length|arr.size()|arr.length()|arr.getLength
+2|The "void" keyword specifies that a method should have a return value|False|True
+1|which one is not a primitive data type?|String|char|long|byte
+2|Which of those  doesn't have an index based structure?|Map|Array|List|Set
+3|java.util.Collection is a:|Interface|Object|Class|None of these
+3|Methods such as reverse,shuffle are offered in:|Collections|Collection|Object|Apache Commons Collectios
+2|Which of these doesn't allow duplicate elements?|Set|List|Array|ArrayList
+3|Hashtable allows the storage of a null key and null values|True|False
+3|Which interface should be implemented for sorting on basis of many criteria's?|Comparable|Serializable|Comparator|None of these
+2|Which is one of these is not a keyword in Java|then|double|switch|instanceof
+1|which of these has highest precedence|()|*|++|>>
+2|Data type long literals are appended by uppercase L or lowercase l|True|False
+2|Instance variables are created when an object is created with the use of the keyword 'new' and destroyed when the object is destroyed?|True|False
+2|Which of these operators is used to allocate memory to array variable in Java?|new|malloc|alloc|new malloc
+2|Which of these is not a bitwise operator?|<= Operator|& operator|&= Operator|all are bitwise operators
+3|Dynamic binding uses which information for binding?|object|type|both type and object|none of these
+2|A constructor can be made private.|True|False
+1|Which of these keywords is used to make a class?|class|struct|int|Dim
+1| Which of these statement is incorrect?|Every class must contain a main() method|Applets do not require a main() method at all|There can be only one main() method in a program|main() method must be made public
+3|Method overriding is the process of defining more than one method in a class differentiated by method signature.|False|True
+2|Which method can be defined only once in a program?|main method| finalize method|static method|private method
+1|String in Java is a?|class|object|variable|character array
+1|Which of these method of String class is used to obtain character at specified index?|charAt()|charat()|char()|char
+1|Strings in java are mutable|False|True
+1|Which of these method of String class can be used to test to strings for equality?|equals()|isequal()|isEqual()|equal()
+3|Method overriding and method overloading are the same|False|True
+3|Which of these data structure is used by operating system to manage the Recursion in Java?|Stack|Array|Tree|Queue
+2|The process in which a function calls itself directly or indirectly is called?|Recursion|self call|chaining|independent calling
+2| Abstract class cannot have a constructor.|False|True
+2|What is true about constructor?| It can take any number of parameters|It can contain return type|Constructor cannot throw an exception|It can have any non access modifiers
+2|Constructors are the same as methods|False|True
+2|There can be a multiple of "catch" blocks after a "try" block|True|False
+2|The keywords final, finally and finalize are the same|False|True
+3|Exceptions under Error and RunTimeException classes are unchecked exceptions, everything else is checked under throwable is checked.|True|False
+3|When we implement an interface we need to override all of its methods.|True|False
+2|We can create an object of the Math class in Java.|False|True
+2|This will make the PI constant: final double PI = 3.142;|True|False
+2|Which access modifier makes the member visible to all the subclasses?|protected|Friend|insult|private
+1|Which keyword is used to refer to the current object?|this|self|object|current
+1|What is the default value of a String in Java?|null|0|false|undefined
+1|which of the following loops is mostly used in a fixed number of iterations?|for|while|do - while|switch-case
+3|In Java final methods can be overloaded.|True|False
+3|A subclass can override private methods of the SuperClass.|False|True
+1|In Java i++ is the same as ++i as they both increment i by 1.|False|True
+1|In Java you can use an "else" statement without an "if".|False|True
+1|Which keyword is used to exit a the loop in Java?|break|continue|End loop|stop
+1|What's the extension for Java file before it is compiled ?|.java|.class|.obj|.jv
+1|What is a variable?|A way to hold data temporarily in a program|A program that can run fast or slow depending on user input|An unpredictable element in a Java program|none of these
+1|Java is not an Object Oriented Programming Language.|False|True
+3|Queue data structure works on....|FIFO|LIFO|FILO|Random out
+3|Which of these data structures is non linear?|Tree|Array|Queue|Stack
+3|Which of these object stores association between keys and values?|Map|Array|Hashtable|Linked List
+3|Map implements collection interface.|False|True
+3|Which of these is legacy class in Java?|all of these|Stack|Vector|Hashtable
+3|Which of these is a legacy interface in Java?|Enumeration|HashMap|Map|Hashtable
+3|Which of these packages contain all of the collection classes in Java?|java.util|java.lang|java.awt|java.net
+3|A hashSet internally implements HashMap.|True|False
